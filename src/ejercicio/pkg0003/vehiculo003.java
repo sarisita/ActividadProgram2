@@ -16,6 +16,7 @@ import javax.swing.table.DefaultTableModel;
 public class vehiculo003 {
     Ejercicio0003 vehi[];
       int tamaño;
+      int ola;
       
         vehiculo003(JTextField jtam){
         int i;
